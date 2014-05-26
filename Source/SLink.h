@@ -11,8 +11,8 @@
 
 @interface SLink : NSObject
 //pointers to the neurons this link connects
-@property SNeuron*  pIn;
-@property SNeuron*  pOut;
+@property (weak)SNeuron*  pIn;
+@property (weak)SNeuron*  pOut;
 
 @property int inID;
 @property int outID;

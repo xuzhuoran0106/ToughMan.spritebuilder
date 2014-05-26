@@ -16,7 +16,7 @@
 @property double mVelocity;
 
 @property double mSize;
-@property CIOSToInternal* mMap;
+@property (weak)CIOSToInternal* mMap;
 
 - (void)Update;
 @end

@@ -13,7 +13,7 @@
 @property double mYRange;
 @property double winWidth;
 @property double winHeight;
-@property CCNode* rootNode;
+@property (weak)CCNode* rootNode;
 
 -(NxVec3*) IOSPositionToInternalPosition:(NxVec3*)point;
 -(NxVec3*) InternalPositionToIOSPosition:(NxVec3*)point;

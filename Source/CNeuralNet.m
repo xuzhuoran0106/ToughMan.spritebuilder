@@ -177,7 +177,7 @@ using namespace rapidxml;
 }
 -(BOOL)Load:(NSString*)path
 {
-
+    
     if (path==nil)
     {
         return FALSE;

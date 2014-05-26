@@ -13,7 +13,7 @@
 
 @interface CGameFlight : CCSprite
 @property (copy)NxVec3* mPos;
-@property CGameMap* mMap;
+@property (weak)CGameMap* mMap;
 @property BOOL mDone;
 @property (copy)NxVec3* mMove;
 @property int mNumSensorPieces;
