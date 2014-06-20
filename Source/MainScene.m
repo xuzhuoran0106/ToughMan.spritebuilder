@@ -32,7 +32,7 @@
     _mMap = [[CGameMap alloc]initWithX:winSize.width Y:winSize.height];
     _mMap.rootNode = _rootNode;
     _flight.mMap=_mMap;
-    NSString *path = [[NSBundle mainBundle] pathForResource:@"ANN0" ofType:@"xml" inDirectory:(NSString *)@"ANN"];
+    NSString *path = [[NSBundle mainBundle] pathForResource:@"ANN1" ofType:@"xml" inDirectory:(NSString *)@"ANN"];
     
     if ([_flight.m_pItsBrain Load:path])
     {

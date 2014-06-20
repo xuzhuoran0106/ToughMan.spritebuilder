@@ -11,6 +11,7 @@
 #import "SLink.h"
 #include "rapidxml.hpp"
 #include "rapidxml_utils.hpp"
+#include "rapidxml_print.hpp"
 #include <string>
 #include <map>
 using namespace std;

@@ -37,7 +37,7 @@
     _mSensorRadius = 1;
     //
     _mSize = 0.1;
-    _mSpeed = 0.15;
+    _mSpeed = 0.05;
     //
     _IsScaled=FALSE;
     //

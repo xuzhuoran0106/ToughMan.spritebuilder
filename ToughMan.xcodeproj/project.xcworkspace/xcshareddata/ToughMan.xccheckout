@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BF9C6A03-7CAE-4FA5-B8A3-2C4962C55E21</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ToughMan</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0876D71C-95C3-4E02-914C-13E450E8BCDB</key>
+		<string>https://github.com/xuzhuoran0106/ToughMan.spritebuilder.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ToughMan.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0876D71C-95C3-4E02-914C-13E450E8BCDB</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/xuzhuoran0106/ToughMan.spritebuilder.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0876D71C-95C3-4E02-914C-13E450E8BCDB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0876D71C-95C3-4E02-914C-13E450E8BCDB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ToughMan.spritebuilder</string>
+		</dict>
+	</array>
+</dict>
+</plist>

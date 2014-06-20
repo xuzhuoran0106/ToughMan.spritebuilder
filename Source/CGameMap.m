@@ -10,6 +10,9 @@
 #import "CRand.h"
 
 @implementation CGameMap
+{
+    double _speed;
+}
 -(void)restartX:(double)px Y:(double)py
 {
     _mTarget=[[NxVec3 alloc] initWithX:0 Y:0 Z:0];
@@ -23,6 +26,8 @@
     
     self.mXRange = 16.0/py*px;
     self.mYRange = 16;
+    
+    _speed=0.04;
 
 }
 -(id)init
@@ -112,7 +117,7 @@
 		}
         
 		
-		newOne.mVelocity = 0.10;
+		newOne.mVelocity = _speed;
 		if (i==-1000)//0
 		{
 			newOne.mDirection.x = target.x-newOne.mPos.x;
